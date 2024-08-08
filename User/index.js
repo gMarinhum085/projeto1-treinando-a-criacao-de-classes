@@ -11,6 +11,6 @@ class User {
         console.log(`${this.fullname} O login falhou.`)
       }
     }
-  }
+}
 
   const user = new User('John', 'john@gmail.com', '1234567')
