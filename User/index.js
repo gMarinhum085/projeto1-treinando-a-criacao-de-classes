@@ -14,4 +14,4 @@ class User {
 }
 
   const user = new User('John', 'john@gmail.com', '1234567')
-  user.login(email,password)
+  user.login('john@gmail.com','1234567')
